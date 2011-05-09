@@ -1,0 +1,16 @@
+#main {
+  margin-left: 250px;
+}
+.white {
+  float: left;
+  background-color: white;
+  height: 300px;
+  width: 30px;
+  border: 2px solid black;
+}
+.black {
+  float: left;
+  background-color: black;
+  height: 225px;
+  width: 25px;
+}
